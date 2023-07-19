@@ -21,12 +21,8 @@ Names and assignment:
     inport - import
     fullstop - .
 Usage:
-    input
-        import weirdcodething
-
-        code = 'can you output this? bro 'hello world' stop
-
-        weirdcodething.convert(code)
-
-    output
-        >> hello world
+    input weirdcodething
+    code = 'can you output this? bro 'hello world' stop
+    weirdcodething.convert(code)
+output
+    >> hello world
