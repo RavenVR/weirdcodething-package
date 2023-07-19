@@ -40,6 +40,8 @@ Names and assignment:
     inport - import
     
     fullstop - .
+
+    i need smth in this - from
     
 Usage:
 
