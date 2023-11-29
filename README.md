@@ -29,7 +29,7 @@ Names and assignment:
     
     equals to - =
     
-    is equals to - ==
+    is equal to - ==
     
     this is NOT it - !=
     
@@ -39,7 +39,7 @@ Names and assignment:
     
     inport - import
     
-    fullstop - .
+    dot - .
 
     i need smth in this - from
     
